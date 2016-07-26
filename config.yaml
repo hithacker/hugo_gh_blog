@@ -5,7 +5,7 @@ publishdir: "public"
 indexes:
   category: "categories"
 baseurl: "http://hirenthacker.com"
-title: "Hugo Blog Template for GitHub Pages"
+title: "Hiren Thacker"
 canonifyurls: true
 theme: "Lanyon"
 ...
